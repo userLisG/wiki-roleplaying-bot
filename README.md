@@ -27,7 +27,7 @@
 </div>
 </hr>
 
-- [Home](https://pages.github.com/)
+- [Home](https://github.com/userLisG/wiki-roleplaying-bot/wiki)
 - [Dynamic BOT System](https://pages.github.com/)
   * [Funções criadas](https://pages.github.com/)
   * [Dependências usadas](https://pages.github.com/)
