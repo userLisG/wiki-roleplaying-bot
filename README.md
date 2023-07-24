@@ -13,7 +13,7 @@
 
 <hr>
 <div align="center">
-  <h1>$${\color{lightblue}MAD-DOG \space BOT \space GAMING \space ROLEPLAY}$$</h1>
+  <h1>$${\color{lightblue}MAD \space DOG \space — \space BOT \space GAMING \space ROLEPLAY}$$</h1>
 </div>
 </hr>
 
